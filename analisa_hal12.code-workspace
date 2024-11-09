@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../analisa_hal1-2/analisa_hal12"
+		},
+		{
+			"name": "TIF_Dhimas",
+			"path": "../analisa_hal1-2/TIF_Dhimas"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
